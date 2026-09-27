@@ -18,6 +18,17 @@ A full-stack \*\*Employee Management System\*\* built with \*\*Spring Boot\*\* (
 
 \## ✨ Features
 
+## 📸 Screenshots
+
+### Employee List
+![Employee List](screenshots/list.png)
+
+### Add Employee
+![Add Employee](screenshots/add.png)
+
+### Edit Employee
+![Edit Employee](screenshots/edit.png)
+
 
 
 \- ✅ Add, view, update, and delete employees
